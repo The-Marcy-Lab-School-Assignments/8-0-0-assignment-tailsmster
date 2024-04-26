@@ -62,9 +62,9 @@ When deploying, you will use the `npm start` command to start the server using t
 
 Before continuing, make sure that these tasks are completed!
 
-- [ ] Has a `server` folder with an `index.js` file and a `package.json` file inside
-- [ ] `package.json` has `express` installed as a dependency and `nodemon` as a dev dependency
-- [ ] `package.json` has a `"dev"` script that uses `nodemon` and a `"start"` script that uses `node`
+- [x] Has a `server` folder with an `index.js` file and a `package.json` file inside
+- [x] `package.json` has `express` installed as a dependency and `nodemon` as a dev dependency
+- [x] `package.json` has a `"dev"` script that uses `nodemon` and a `"start"` script that uses `node`
 
 
 ## Part 2 - Writing the Server Application
@@ -77,7 +77,7 @@ As you build your server, visit http://localhost:8080 (or whatever port number y
 
 **Server Application Technical Requirements**
 
-- [ ] In `index.js`, the `express()` function is used to create an `app`
+- [x] In `index.js`, the `express()` function is used to create an `app`
 - [ ] There are 4 controller functions
   - [ ] Two controllers send an HTML response (either raw HTML or an HTML file)
   - [ ] Two controllers send a data response
