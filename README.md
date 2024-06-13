@@ -1,5 +1,5 @@
 # DEPLOYED URL:
-[https://eight-0-0-assignment-tailsmster.onrender.com/api/data](https://eight-0-0-assignment-tailsmster.onrender.com/api/data)
+[https://eight-0-0-assignment-tailsmster.onrender.com/](https://eight-0-0-assignment-tailsmster.onrender.com/)
 
 # My First Express Server
 
